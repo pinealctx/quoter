@@ -1,5 +1,10 @@
 # quoter
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/pinealctx/quoter.svg)](https://pkg.go.dev/github.com/pinealctx/quoter)
+[![golangci-lint](https://github.com/pinealctx/quoter/actions/workflows/ci.yml/badge.svg)](https://github.com/pinealctx/quoter/actions/workflows/ci.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/pinealctx/quoter)](https://goreportcard.com/report/github.com/pinealctx/quoter)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Get real-time Cryptocurrency quotes via CoinMarketCap.
 
 #### Get it

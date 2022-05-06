@@ -10,7 +10,7 @@ Get real-time Cryptocurrency quotes via CoinMarketCap.
 #### Get it
 
 ```shell
-go get -u github.com/pinealctx/opensea-go
+go get -u github.com/pinealctx/quoter
 ```
 
 #### Use it
